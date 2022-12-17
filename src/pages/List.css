@@ -1,0 +1,19 @@
+
+.content {
+    display: block;
+    position: relative;
+}
+
+.cardLine {
+    word-wrap:break-word;
+    display: flex;
+    align-items:unset;
+    justify-content:space-around;
+    margin-bottom: 20px;
+}
+
+Card1 {
+    margin: 10 10 10 10px;
+    position: relative;
+    display: list-item;
+}

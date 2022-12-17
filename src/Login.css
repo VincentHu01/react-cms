@@ -1,0 +1,22 @@
+.login {
+  background-color: white;
+  width: 100wh;
+  height: 100vh;
+  position: relative;
+}
+
+.login-box {
+  background-color: white;
+  width: 350px;
+  position: absolute ;
+  left: 48%;
+  top: 40%;
+  transform: translate(-50%, -50%);
+}
+
+img {
+    display: block;
+    width: 320px;
+    height: 85px;
+    margin: 0 auto 20px 0px;
+}
